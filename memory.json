@@ -1,0 +1,41 @@
+{
+  "users": {
+    "guest": {
+      "id": "guest",
+      "name": "Bro Dev",
+      "email": "guest@futurachat.local",
+      "projects": [
+        "FuturaChat Pro",
+        "Mini AI Chat Bot"
+      ],
+      "interests": [
+        "AI chatbots",
+        "web development",
+        "voice features",
+        "image generation"
+      ],
+      "devices": [
+        "MacBook Air M4"
+      ],
+      "location": "Tirupati, Andhra Pradesh, India",
+      "languages": [
+        "JavaScript",
+        "Java",
+        "SQL"
+      ],
+      "conversations": [],
+      "chatHistory": [],
+      "settings": {
+        "theme": "dark",
+        "voiceEnabled": true,
+        "voiceRate": 1,
+        "voicePitch": 1,
+        "fontSize": "medium",
+        "notifications": true,
+        "readReceipts": true
+      },
+      "lastActive": "2026-02-21T07:26:31.510Z"
+    }
+  },
+  "preferences": {}
+}
